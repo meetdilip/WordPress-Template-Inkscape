@@ -1,4 +1,4 @@
-#WordPress Inkscape Template
+# WordPress Inkscape Template
 
 Helps you create WordPress ready images with ease
 
