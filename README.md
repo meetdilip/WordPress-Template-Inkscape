@@ -1,4 +1,5 @@
-# WordPress-Template-Inkscape
+#WordPress Inkscape Template
+
 Helps you create WordPress ready images with ease
 
 Planning to use Inkscape to create an image for your WordPress blog? Not sure about the image size, or confused how to set them in Inkscape? Ready to use WordPress image templates for Inkscape. 
